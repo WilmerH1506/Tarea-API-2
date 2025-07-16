@@ -33,10 +33,11 @@ Para conectarse a la bd crear el .env en base al .env.example con los siguientes
 | Parámetro      | Valor         |
 |----------------|---------------|
 | Host           | `localhost`   |
-| Puerto         | `3308`        |
+| PuertoBD         | `3308`        |
 | Base de datos  | `tienda` |
 | Usuario        | `unah`        |
 | Contraseña     | `unah1234`    |
+| Puerto         | `3000`        |
 
 Para iniciar el servidor, se debe ejecutar el siguiente comando en la raíz del proyecto dentro de la carpeta Tarea2.1:
 
